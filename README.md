@@ -7,7 +7,11 @@
 
 ## Technology Bucket
 
-## Team
+## Team Name
+
+## Team Leader
+
+## Team Members
 
 ## Problem Description
 
