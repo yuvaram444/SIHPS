@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:
-## Register Number
-
+## Register Number:
+## Name:
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
