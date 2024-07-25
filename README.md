@@ -3,11 +3,11 @@
 ## Register Number:
 ## Name:
 ## Problem Title
-E-Waste Facility Locator
+Development of e-Portal for facilitating Case Management Hearing of various types of cases
 ## Problem Description
-Website that tells you the location of the nearest e-waste collection and recycling facility. Offers educational pop-ups on the harmful components of your e-waste and their effects on the environment and human health if not disposed correctly. There could be an option to input the model of your old device and earn credit points relative to the amount of precious metals recovered from the device if disposed correctly.
+Case Management Hearing, known as a Pre-Trial Conference" in other jurisdictions". This application is used for managing case files since filing to disposal and to complete all its related processes. The CMS keeps the records of all the cases filed in Delhi High Court. The system has following features: Filing of Case, Caveat matching, Allocation of case, Daily Case Proceedings, Notice Generation, Case Transfer, Case Status Search, Report, etc.
 ## Problem Creater's Organization
-Ministry of Environment
+Ministry of Law and Justice
 
 ## Idea
 
