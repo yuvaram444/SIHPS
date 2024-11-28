@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:  27:11:2024
-## Register Number:  24900232
-## Name:  YUVARAM S
+# Date:  
+## Register Number:  
+## Name:  
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,61 +10,16 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-1.User Management: Handles user registration, authentication, and profile management.
 
-2.Alumni Directory: Stores and displays information about alumni, including contact details, professional profiles, and interests.
-
-3.Event Management: Organizes and manages events, including registration, invitations, and event details.
-
-4.Communication: Enables communication channels like forums, discussion boards, and messaging systems.
-
-5.Fund Management: Handles fundraising campaigns, donations, and financial transactions.
-
-6.Mentorship: Facilitates mentorship programs by connecting alumni with current students.
-
-7.Job Board: Provides a platform for alumni to post job openings and connect with potential candidates.
-
-8.Alumni Directory Service: Stores and retrieves alumni information.
-
-9.Event Management Service: Manages event creation, registration, and notifications.
-
-10.Communication Service: Handles messaging, forums, and email notifications.
-
-11.Fund Management Service: Processes donations and manages financial transactions.
-
-12.Mentorship Service: Matches mentors and mentees based on their interests and skills.
-
-13.Job Board Service: Manages job postings and applications.
-
-14.User Database: Stores user information, including profiles, preferences, and contact details.
-
-15.Alumni Directory Database: Stores alumni information, including professional profiles and contact details.
 
 ## Proposed Solution / Architecture Diagram
-![Screenshot 2024-11-27 213207](https://github.com/user-attachments/assets/045deb9a-5522-4544-a2d0-56a876843413)
 
 
 ## Use Cases
-![Screenshot 2024-11-27 225358](https://github.com/user-attachments/assets/f2cc519e-26a6-4b89-99ab-a04c60e81220)
 
 
 ## Technology Stack
-Frontend: HTML,CSS,JavaScript
 
-Library: React.js
 
-Language: Python
 
-Framework: Django and Flask
-
-DataBase: SQL
-
-Web Server: Apache and Node.js
-
-Version Control: GitHub,GitLab,Bitbucket
 ## Dependencies
-Build the WebSite - 2 days
-
-Data Collection - 15 days
-
-Butget = Rs 5,00,000
